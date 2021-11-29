@@ -1,3 +1,3 @@
 # thoughts
 
-[Article 1](001.html).
+[Evolución del concepto de "roto"](roto.html).
