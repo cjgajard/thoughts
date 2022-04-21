@@ -9,4 +9,4 @@ $(DST)%.css: %.css
 	cp $< $@
 
 $(DST)%.js: %.ts
-	esbuild $< --bundle --outfile=$@
+	pnpx esbuild $< --bundle --outfile=$@

@@ -1,5 +1,5 @@
 DST := ../docs/
-ARTICLES=index.html 001.html 002.html roto.html
+ARTICLES=index.html 001.html 002.html roto.html kohlberg.html
 
 .PHONY: all clean
 .INTERMEDIATE: index.yml

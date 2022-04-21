@@ -1,0 +1,268 @@
+<div class="container">
+
+# Desarrollo moral según Kohlberg
+
+2022-04-21
+
+
+Anotaciones y comentarios respecto de los videos [Etapas del desarrollo moral
+según Kohlberg][1] y [Las 6 Etapas del Desarrollo Moral de Kohlberg][2]
+
+
+**Preconvencionales**
+
+1. **Interés propio**: Búsqueda del beneficio personal, máximizando refuerzos
+   positivos y minimizando los negativos.
+
+2. **Interés mutuo**: Descubrimiento de la cooperaciónEl sujeto logra
+   identificar a un tercero con intereses distintos a los propios, pero acepta
+   cooperar cuando reconoce que la acción en pos los intereses de un otro, también
+   resulta en la satisfacción de intereses propios.
+
+
+**Convencionales**
+
+3. **Presión social**: Conformidad a las expectativas sociales. En esta etapa el
+   sujeto comienza a entenderse como miembro de grupos con un intereses
+   adicionales que extienden o restringen sus intereses personales.
+
+4. **Orden social**: Conformidad a las normas sociales. En esta etapa el sujeto
+   adopta racionalmente una sínteis de los intereses grupales y los personales
+   como propios. (Opino que para reducir el conflicto interno entre el intereses
+   contradictorios.)
+
+
+**Post convencionales**
+
+5. **Contrato social**: Crítica inductiva<sup><a name="a-back"></a>[a](#a)</sup>
+   a las normas sociales. En esta etapa el sujeto busca encontrar motivos o
+   casos que justifiquen o recriminen las leyes.
+
+6. **Autonomía**: Crítica autónoma y deductiva<sup>[a](#a)</sup> a las normas.
+   En esta etapa el sujeto puede definir —a través de la razón— máximas que le
+   ayuden a definir por sí mismo —con autonomía— la valoración moral de
+   algo<sup><a name="b-back"></a>[b](#b)</sup>. El autor además promueve que el
+   imperativo correcto es el de compasión ~~(Vaya a saber uno por qué)~~.
+
+
+# Comentarios
+
+
+Mi reestructuración del modelo. (Nota: Voy a usar numeración romana para
+distinguir etapas equivalentes entre modelos, por ejemplo, _«etapa n.° 2»_ es la
+segunda etapa en el modelo de Kohlberg mientras _«etapa II»_ es su equivalente
+en mi reestructuración.)
+
+**Preconvencionales**
+
+La siguiente etapa no existe en el modelo de Kohlberg, pero se encuentra
+incluida en la _etapa n.° 1_. Me parece necesaria agregarla para explicar mejor
+las etapas posteriores.
+
+- **&#48;. Instinto**: Obediencia irracional a la autoridad natural,
+  condicionada a través de reforzamientos positivos o negativos, extrínsecos o
+  intrínsecos.  Esta etapa no creo que esté muy presente en humanos salvo bebés
+  que no puedan sostener su propia cabeza (eso ya es un síntoma de
+  _autonomía_<sup><a name="c-back"></a>[c](#c)</sup>). Desde ahí la capacidad de
+  **racionalizar** el interés propio, y entrar en la etapa I, será proporcional a
+  la cantidad de lenguaje que ese niño sea capaz de entender.
+
+- **I. Interés propio**: Racionalización del beneficio personal. Se produce
+  cuando el cerebro del niño es capaz de reconocer los patrones del
+  reforzamiento que recibe y actuar en pos de maximizar el positivo y minimizar el
+  negativo.
+
+  Se diferencia de los animales en que los niños son capaces de recibir ideas
+  cada vez más complejas. Mientras algunos animales pueden entender un «¡no!» o
+  un «¡perro malo!» los niños entienden —¿racionalmente?— un «¡no te subas a la
+  mesa!».
+
+  No sé si esto distinto a lo que dice Kohlberg, pero para mí las _etapa 0_ y
+  _etapa I_ no son una serie sino que actúan paralelamente. Por lo que me
+  aventuraría a decir que el conflictos entre ambos va a generar el tipo de
+  personalidad que cada persona tendrá a futuro. Por ejemplo una persona cuyo
+  _interés propio_ nunca se ve limitado por su autoridad natural desarrollará
+  una personalidad más narcisista, y por el contrario una que se ve demasiado
+  limitada podría generar problemas de autoestima.
+
+  La forma de actuar puede variar mucho de acuerdo a la experiencias adquiridas
+  y valoradas de acuerdo a la moral de _etapa 0_. Por ejemplo, un niño de 6 años
+  que a los 3 años lo mordió un perro va a rechazarlos en primera instacia por
+  mucho que los padres le digan que se acerque y les haga cariño, mientras que
+  otro niño _reforzamientos negativos_ respecto a los perros se podría acercar a
+  hacerle cariño a uno sin necesidad de que nadie se lo ordene (en lentes
+  determinísticos, puede ser que se acerque porque el pelaje le recuerde _el
+  reforzamiento positivo_ de la suavidad de un peluche). Me parece que esto no
+  es fácil de explicar bajo el modelo de Kohlberg.
+
+  Kohlberg dice que en esta etapa no existe la voluntud autónoma, porque los
+  niños no serían capaces de actuar sin el concentimiento de sus padres —o de
+  hacerlo estas estarían precondicionadas por una crianza anterior(?)—, pero a
+  mis ojos ésta en la más autónoma de todas las etapas.
+
+- **II. Interés mutuo**: Nada especial que decir, salvo que en mi modelo esta
+  etapa no reemplaza sino que extiende la _etapa I_, manteniéndose paralela a la
+  valoración por instinto —de la _etapa 0_ —.
+
+
+**Convencionales**
+
+- **III. Presión social**: Mi principal diferencia con lo descrito en la _etapa
+  n.° 3_ es que considero que esta etapa es irracional —similar a la _etapa 0_
+  —, pero se expande a más personas en la fuente de autoridad (ya no son solo
+  los padres los que pueden mandar sino también amigos, familiares, los
+  profesores, el párroco, etc.) como tambien en la fuente de reforzamiento
+  negativo intrínseco a través de la empatía (ya no solo te duele si te pegan,
+  sino también te duele si le pegan a uno de tus pares; por eso a los bully les
+  basta con pegarle a un solo cabro chico para imponerse sobre todo el curso).
+  Ésta etapa no se sobrepondría a ninguna de las fuentes de juicio moral
+  preconvencionales; se podría decir que es como si la _etapa 0_ "creciera".
+
+- **IV. Orden social**: La principales diferencias que veo con la etapa anterior
+  es que ésta es racional y genera una nueva fuente de juicio moral, y el sujeto
+  podría verse en conflicto interno entre las _etapas II_, _III_ y _IV_.
+
+<!--
+Escribí ejemplos pero después me parecieron innecesarios.
+
+Ejemplo de conflicto III vs IV: Un adolecente (16?) vive en un barrio flaite,
+pero sus padres le han inculcado una cultura cristiana. Él reconoce como
+legítima la ley de no robar, por lo que cuando sus amigos flaites lo inviten a
+salir a robar entrará en una contradicción interna: mantener la ley o verse
+marginado de su grupo social en el futuro.
+
+Ejemplo II vs III: Otro adolecente del mismo barrio, pero de cultura flaite: no
+reconoce como legítima la ley, pero sabe que es el más lento así que si algo
+sale mal lo más probable es que lo pillen a él primero.
+-->
+
+> ¿Cómo explicas que _n.° 4_ en Kohlberg reduzca el conflicto interno, mientras
+> que tú dices que aumenta las fuentes de conflicto?
+
+Kohlberg no toca el conflicto interno. Imagino que se debe a que le es
+irrelevante si la conducta final es la misma, incluyendo que para Kohlberg la
+religión y la ley se mezclan en un gran bloque de «normas sociales heterónomas».
+Puede que a intereses de la psicología no importe mucho, sin embargo en una
+perspectiva política —que es lo que personalmente me importa de este análisis—
+ese conflicto interno se muestra de gran importancia porque puede ser utilizado
+por líderes de todo ámbito para movilizar masas. Por ejemplo, la _etapa II_ —de
+beneficio personal o grupal— puede ser usado para que personas con desarrollo
+moral en _etapa IV_ se opongan a una ley que no reconozca los derechos civiles
+de un grupo _discriminado_ (tengo en mente la derogación de las Leyes Jim Crow
+en EE.UU.).
+
+
+**Post convencionales**
+
+- **V. Contrato social**: Considero que esta etapa no es estrictamente un etapa
+  de desarrollo moral sino una consecuencia conductual de un sistema heterónomo
+  (¿ley + religión?) incapaz de resolver el conflicto moral interno de sus
+  participantes. En otras palabras, cuando el exterior las mantiene en duda, las
+  personas buscan respuestas exteriores o racionamientos internos que vuelvan
+  justificar las normas o que sean disidentes de ellas.
+
+  Si bien personas este nivel son capaces de cuestionar las normas con las que
+  vive; son incapaces de custionarse las máximas que resolverán sus conflictos
+  morales. Y estas máximas de todas formas les serán entregadas externamente.
+
+- **VI. Autonomía**: Considero que la autonomía definida por Kohlberg es una
+  trampa filosófica en que impone máximas morales —en específico la
+  universalidad y la coexistencia— sin justificarlas, solo basándose en las
+  máximas que dominaban el discuso politico religioso, cultural y económico de
+  su época —el fin de la 2da Guerra Mundial—.
+
+  Sí considero que existe una etapa que supera la simple justificación de las
+  normas, a la que se llega con una reflexión honesta y crítica, pero de la cual
+  es filosóficamente imposible deducir<sup>[a](#a)</sup> nada con certeza porque
+  para hacerlo se necesita respuestas metafísicas —que por definición son
+  imposibles de demostrar empíricamente—.
+
+  Esto lleva a que finalmente todos los filósofos lleguen a distintas
+  justificaciones de la justicia, o los más críticos —como Nietzsche— aseveren
+  que la respuesta es la ausencia de ella, llegando así al nihilismo. Con lo que
+  la definición de justicia no es más que un salto de fe.
+
+Y la pregunta que nace es de esto es «¿Son todos los humanos capaces de llegar a
+esta supuesta autonomía y dar un salto en presencia del vacío o la mayoría
+acabará en un nihilismo pasivo?»
+
+La respuesta, de ser «sí», nos llevará a que cada persona pueda definir un
+modelo distinto de justicia y de sociedad, y para no caer en la anarquía los
+filósofos de esta corriente recomiendan la democrácia: un sistema en el que
+ganaría el que mejor resuelva el conflicto entre yo, mi grupo y el orden
+general, y que se permite a si mismo adaptarse a los cambios de moral de sus
+miembros, pero cuyo precio —advierten sus detractores— es el conflicto social,
+la inestabilidad política, la indefensión de sus miembros y la cooptación del
+sistema por los que manejen la opinión pública<sup><a
+name="d-back"></a>[d](#d)</sup>.
+
+De ser «no», se tendrá que aceptar la _instrumentalización_ de unos a manos de
+otros a través de la tan criticada heteronomía y permitir que _algunos_ definan
+las máximas morales de la sociedad.
+
+Por mi parte, lo que veo del mundo es que no todos llegan a cuestionarse su
+autonomía, y muy pocos se atreven a dar una respuesta propia a la pregunta de
+«¿Qué es justo?», así que pareciera muy convincente estar de parte de los que
+responden que «no», pero también muy útil la idea de un sistema capaz de darse
+la espalda a si mismo de caso de un error pasado.
+
+---
+
+Notas:
+
+<a name="a">[a](#a-back)</a>. Inductivo: desde lo particular a lo general.
+Deductivo: desde lo general a lo particular.
+
+<a name="b">[b](#b-back)</a>. ¿Imperativo categórico de Kant?
+
+<a name="c">[c](#c-back)</a>. Puede que esté usando mal la palabra
+_autonomía_ porque para mí significa una cosa completamente opuesta a lo que
+significa para los liberales xD.
+
+<a name="d">[d](#d-back)</a>. Esto más que referirse a manipulación y cooptación
+en sí, refiere a que el sistema no cumple su promesa de autonomía generalizada.
+
+[1]: https://www.youtube.com/watch?v=fxiDRsQ0gc8
+[2]: https://www.youtube.com/watch?v=eWoP3OHqzF8
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  Array.from(document.getElementsByTagName("a")).forEach(function(e) {
+    if (!(e.getAttribute("href") || "").startsWith("#")) {
+      e.setAttribute("target", "_blank");
+    }
+  });
+});
+</script>
+
+<style>
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  padding: 64px;
+  background-color: #f4ecd8;
+  color: #5b4636;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.8rem;
+  line-height: 1.42857;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 25em;
+}
+
+blockquote {
+  background-color: #ece1c6;
+  border-left: 4px solid #5b4636;
+  margin: 0;
+  padding: .5em 40px;
+}
+blockquote > p {
+  margin: 0;
+}
+</style>
