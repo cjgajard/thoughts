@@ -1,3 +1,7 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+
 let index = 0;
 let lines = 0;
 let target = 0;
@@ -181,3 +185,5 @@ function getLineHeight(e: HTMLElement): number {
     e.removeChild(clone);
     return doubleLine - singleLine;
 }
+
+ReactDOM.render(<App />, document.querySelector('#react-app'));
